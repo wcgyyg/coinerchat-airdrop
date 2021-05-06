@@ -633,6 +633,7 @@ const list = [
     '0x71e347681baadce1529ae449d49128f46e5c5a2e',
     '0xaE742553B94E94872BAcf43b5a2A69E02e716475',
     '0x2F812AfBF8a9a9D4A00BDb9640280a497a591387',
+    '0x51bfe08ddb15301998e15d3dfbcd8e9ec796b401',
 ];
 
 module.exports = {
